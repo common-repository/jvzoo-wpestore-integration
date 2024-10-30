@@ -1,0 +1,68 @@
+#ss-add-api-frm .form-field input {
+    width: 25em;
+}
+
+.ss-shortcode-table{
+    width: 50%;
+}
+
+.ss-padding{
+    padding-left: 10px;
+}
+
+.ss-delete_button:hover {
+    color: #fff;
+    background-color: #c9302c;
+    border-color: #ac2925;
+}
+
+.ss-delete_button {
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+}
+
+.ignore_comment_button {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+.ignore_comment_button:hover {
+    color: #fff;
+    background-color: #286090;
+    border-color: #204d74;
+}
+
+.ss_delete_button {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+}
+
+.ss-td-width{
+    width: 20%;
+}
+.ss-info{
+    background: url("/wp-content/plugins/ss_jvzoo_wpestore/admin/images/info.png") no-repeat scroll left center transparent;
+}

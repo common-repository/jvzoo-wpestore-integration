@@ -1,0 +1,98 @@
+/**
+ * JVZOO alert boxes
+ */
+
+/**
+ * JVZOO alert boxes
+ */
+
+.jvzoo-alert-box {
+    color: #555;
+    border-radius: 10px;
+    font-family: Tahoma, Geneva, Arial, sans-serif;
+    font-size: 13px;
+    padding: 10px 10px 10px 36px;
+    margin: 10px;
+}
+
+.jvzoo-alert-box span {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.jvzoo-error {
+    background: #ffecec 10px 50%;
+    border: 1px solid #f5aca6;
+}
+
+.jvzoo-success {
+    background: #e9ffd9 10px 50%;
+    border: 1px solid #a6ca8a;
+}
+
+.jvzoo-warning {
+    background: #fff8c4 10px 50%;
+    border: 1px solid #f2c779;
+}
+
+.jvzoo-notice {
+    background: #e3f7fc 10px 50%;
+    border: 1px solid #8ed9f6;
+}
+
+#ss-add-api-frm .form-field input {
+    width: 25em;
+}
+
+.ss-margin {
+    margin: 40px;
+    margin-bottom: 20px;
+}
+
+h2.thank-you {
+    font-size: 40px;
+    font-weight: 400;
+    padding-bottom: 40px;
+}
+
+.ss-final-message h2 {
+    font-family: 'PT Sans';
+}
+
+h2.email-check {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+h2.order {
+    font-size: 25px;
+}
+
+span.oops {
+    font-size: 40px;
+}
+
+.send-email {
+    font-size: 18px;
+}
+
+.success-image {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+
+.order em strong {
+    font-family: 'PT sans';
+}
+
+span.oops {
+    font-size: 110px;
+}
+
+.some-problem {
+    padding-top: 35px;
+    font-size: 25px;
+    font-weight: 600;
+    padding-bottom: 35px;
+}

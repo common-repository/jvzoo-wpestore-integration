@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JVZoo WPestore integaration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Jul 21 2016 20:06:20 GMT+0545 (NPT)\n"
+"PO-Revision-Date: Thu Jul 21 2016 21:07:18 GMT+0545 (NPT)\n"
+"Last-Translator: Raghab - DatingSolutions Support <support@wpdating.com>\n"
+"Language-Team: \n"
+"Language: German\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+msgid " Product Map Edited."
+msgstr ""
+"\n"
+"Produkt- Karte bearbeitet werden."
+
+msgid "(required)"
+msgstr "(erforderlich)"
+
+msgid "<strong>ERROR</strong>: Could not store the product map into the database"
+msgstr ""
+"\n"
+"<strong>ERROR</strong> : Konnte nicht das Produkt Karte speichern in der "
+"Datenbank"
+
+msgid "<strong>ERROR</strong>: JVZoo product id is required."
+msgstr ""
+"\n"
+"<strong>ERROR</strong> : JVZoo Produkt -ID erforderlich."
+
+msgid "<strong>ERROR</strong>: Please enter a JVZoo api key."
+msgstr ""
+"\n"
+"<strong>FEHLER</strong>:  Bitte geben Sie eine JVZoo api Schlüssel ."
+
+msgid "<strong>ERROR</strong>: WP estore product id is required."
+msgstr ""
+"\n"
+"<strong>ERROR</strong> : WP estore Produkt -ID erforderlich."
+
+msgid "Add Api"
+msgstr "In Api"
+
+msgid "Add New"
+msgstr "Neue hinzufügen"
+
+msgid "Api Added"
+msgstr "Api Hinzugefügt"
+
+msgid "Api Updated"
+msgstr "Api Aktualisiert"
+
+msgid "Api key"
+msgstr "Api key"
+
+msgid "Are you cheating?"
+msgstr ""
+"\n"
+"Betrügen Sie?"
+
+msgid "Delete"
+msgstr "löschen"
+
+msgid "Delete this item"
+msgstr ""
+"\n"
+"Löschen Sie diesen Artikel"
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Edit Product"
+msgstr ""
+"\n"
+"Produkt bearbeiten"
+
+msgid "Edit this item"
+msgstr "Bearbeiten Sie diesen Artikel"
+
+msgid "JVZoo Api Key"
+msgstr "JVZoo Api Key"
+
+msgid "JVZoo Product ID"
+msgstr "JVZoo Produkt ID"
+
+msgid "JVZoo WPestore Settings"
+msgstr "JVZoo WPestore Einstellungen"
+
+msgid "JVZoo WPestore integaration"
+msgstr "JVZoo WPestore integaration"
+
+msgid "JVZoo product id"
+msgstr "JVZoo Produkt -ID"
+
+msgid "Map Product"
+msgstr "Karte Produkt"
+
+msgid "Move to Trash"
+msgstr "Ab in den Müll"
+
+msgid "New Product map created."
+msgstr "Neues Produkt Karte erstellt ."
+
+msgid "No JVZoo product id provided."
+msgstr "Kein JVZoo Produkt -ID zur Verfügung gestellt."
+
+msgid "No Products found"
+msgstr "Keine Produkte gefunden"
+
+msgid "No WP estore product id provided."
+msgstr ""
+"\n"
+"Kein WP estore Produkt -ID zur Verfügung gestellt."
+
+msgid "Permission Denied!"
+msgstr "Erlaubnis verweigert!"
+
+msgid "Place the below shortcode to the desired page."
+msgstr "Legen Sie die unten Shortcode auf die gewünschte Seite ."
+
+msgid "Save"
+msgstr "sparen"
+
+msgid "Save Api key"
+msgstr "sparen\n"
+
+msgid "Selected record deleted successfully!"
+msgstr ""
+"\n"
+"Ausgewählte Datensatz gelöscht erfolgreich !"
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid "This plugin integrates JVZoo and WPestore plugin"
+msgstr "Dieses Plugin integriert JVZoo und WPestore Plugin"
+
+msgid "Update"
+msgstr "aktualisieren"
+
+msgid "WP estore product id"
+msgstr ""
+"\n"
+"WP estore Produkt -ID"
+
+msgid "WPEstore Product ID"
+msgstr "WPEstore Produkt ID"
+
+msgid "You can get your API key by going to JVZoo -> My Account -> Applications"
+msgstr ""
+"\n"
+"Sie können , indem Sie auf JVZoo Ihre API-Schlüssel bekommen -> Ihr Konto -> "
+"Anwendungen"

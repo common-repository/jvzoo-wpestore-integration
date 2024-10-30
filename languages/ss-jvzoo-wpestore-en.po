@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JVZoo WPestore integration\n"
+"POT-Creation-Date: 2017-07-14 11:08+0545\n"
+"PO-Revision-Date: 2017-07-14 11:08+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/add-jvzipn-secret-key.php:41
+msgid "<strong>ERROR</strong>: Please enter a JVZipn secret key."
+msgstr ""
+
+#: admin/add-jvzipn-secret-key.php:53
+msgid "Api Updated"
+msgstr ""
+
+#: admin/add-jvzipn-secret-key.php:58
+msgid "Api Added"
+msgstr ""
+
+#: admin/add-jvzipn-secret-key.php:67
+msgid "JVZipn Secret Key"
+msgstr ""
+
+#: admin/add-jvzipn-secret-key.php:79
+msgid "Secret key"
+msgstr ""
+
+#: admin/add-jvzipn-secret-key.php:80
+msgid "(required)"
+msgstr ""
+
+#: admin/add-jvzipn-secret-key.php:96
+msgid "Save secret key"
+msgstr ""
+
+#: admin/class-ss-jvzoo-wpestore-admin.php:51
+msgid "JVZoo WPestore Settings"
+msgstr ""
+
+#: admin/class-ss-jvzoo-wpestore-admin.php:52
+msgid "JVZIPN Secret Key"
+msgstr ""
+
+#: admin/class-ss-jvzoo-wpestore-admin.php:53
+#: admin/shortcode-settings-page.php:11
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-ss-jvzoo-wpestore-admin.php:54
+#: admin/map-product/view/Product-list.php:17
+#: admin/map-product/view/Product-single.php:11
+msgid "Map Product"
+msgstr ""
+
+#: admin/class-ss-jvzoo-wpestore-admin.php:55
+msgid "Settings"
+msgstr ""
+
+#: admin/map-product/Product-functions.php:87
+msgid "No WP estore product id provided."
+msgstr ""
+
+#: admin/map-product/Product-functions.php:90
+msgid "No JVZoo product id provided."
+msgstr ""
+
+#: admin/map-product/class-Product-list-table.php:34
+msgid "No Products found"
+msgstr ""
+
+#: admin/map-product/class-Product-list-table.php:69
+msgid "WPEstore Product ID"
+msgstr ""
+
+#: admin/map-product/class-Product-list-table.php:70
+msgid "JVZoo Product ID"
+msgstr ""
+
+#: admin/map-product/class-Product-list-table.php:87
+msgid "Edit this item"
+msgstr ""
+
+#: admin/map-product/class-Product-list-table.php:87
+msgid "Edit"
+msgstr ""
+
+#: admin/map-product/class-Product-list-table.php:88
+msgid "Delete this item"
+msgstr ""
+
+#: admin/map-product/class-Product-list-table.php:88
+msgid "Delete"
+msgstr ""
+
+#: admin/map-product/class-Product-list-table.php:117
+msgid "Move to Trash"
+msgstr ""
+
+#: admin/map-product/class-Product-list-table.php:145
+msgid "Selected record deleted successfully!"
+msgstr ""
+
+#: admin/map-product/class-form-handler.php:40
+msgid "Permission Denied!"
+msgstr ""
+
+#: admin/map-product/view/Product-edit.php:7
+msgid " Product Map Edited."
+msgstr ""
+
+#: admin/map-product/view/Product-edit.php:21
+#: admin/map-product/view/Product-new.php:9
+msgid "<strong>ERROR</strong>: WP estore product id is required."
+msgstr ""
+
+#: admin/map-product/view/Product-edit.php:24
+#: admin/map-product/view/Product-new.php:12
+msgid "<strong>ERROR</strong>: JVZoo product id is required."
+msgstr ""
+
+#: admin/map-product/view/Product-edit.php:27
+#: admin/map-product/view/Product-new.php:15
+msgid ""
+"<strong>ERROR</strong>: Could not store the product map into the database"
+msgstr ""
+
+#: admin/map-product/view/Product-edit.php:42
+msgid "Edit Product"
+msgstr ""
+
+#: admin/map-product/view/Product-edit.php:51
+#: admin/map-product/view/Product-new.php:42
+msgid "WP estore product id"
+msgstr ""
+
+#: admin/map-product/view/Product-edit.php:61
+#: admin/map-product/view/Product-new.php:51
+msgid "JVZoo product id"
+msgstr ""
+
+#: admin/map-product/view/Product-edit.php:75
+msgid "Update"
+msgstr ""
+
+#: admin/map-product/view/Product-list.php:6
+msgid "New Product map created."
+msgstr ""
+
+#: admin/map-product/view/Product-list.php:18
+#: admin/map-product/view/Product-new.php:2
+msgid "Add New"
+msgstr ""
+
+#: admin/map-product/view/Product-new.php:65
+msgid "Save"
+msgstr ""
+
+#: admin/map-product/view/Product-single.php:16
+msgid "WPESTORE Product ID"
+msgstr ""
+
+#: admin/map-product/view/Product-single.php:21
+msgid "JVZOO Product ID"
+msgstr ""
+
+#: admin/settings-page-menu.php:34
+msgid "General Settings"
+msgstr ""
+
+#: admin/settings-page/general-settings/debug-settings.php:33
+msgid "Testing and Debugging Settings"
+msgstr ""
+
+#: admin/settings-page/general-settings/debug-settings.php:38
+msgid ""
+"You do not need to use these options unless you are testing the plugin or "
+"trying to\n"
+"                                troubleshoot and issue."
+msgstr ""
+
+#: admin/settings-page/general-settings/debug-settings.php:44
+msgid "enable Debug"
+msgstr ""
+
+#: admin/settings-page/general-settings/debug-settings.php:62
+msgid "Reset debug file"
+msgstr ""
+
+#: admin/settings-page/general-settings/debug-settings.php:67
+#: admin/settings-page/general-settings/membership-level.php:80
+#: admin/settings-page/general-settings/wpmember-secret-word.php:65
+#: admin/settings-page/message-settings.php:75
+msgid "Submit"
+msgstr ""
+
+#: admin/settings-page/general-settings/debug-settings.php:97
+msgid "Debug enable"
+msgstr ""
+
+#: admin/settings-page/general-settings/debug-settings.php:100
+msgid "Debug disabled"
+msgstr ""
+
+#: admin/settings-page/general-settings/membership-level.php:50
+msgid "WP eMember Membership level"
+msgstr ""
+
+#: admin/settings-page/general-settings/membership-level.php:57
+msgid ""
+"You can find this Membership Level in DASHBOARD-> WP eMember -> Membership "
+"Level"
+msgstr ""
+
+#: admin/settings-page/general-settings/membership-level.php:63
+msgid "Select Level"
+msgstr ""
+
+#: admin/settings-page/general-settings/membership-level.php:111
+msgid "<strong>ERROR</strong>: Please select membership "
+msgstr ""
+
+#: admin/settings-page/general-settings/membership-level.php:125
+msgid "Membership level saved"
+msgstr ""
+
+#: admin/settings-page/general-settings/wpmember-secret-word.php:48
+msgid "WP eMember secret word"
+msgstr ""
+
+#: admin/settings-page/general-settings/wpmember-secret-word.php:55
+msgid ""
+"You can find this secret word in DASHBOARD-> WP eMember -> Settings -> "
+"Additional Integration Options"
+msgstr ""
+
+#: admin/settings-page/general-settings/wpmember-secret-word.php:96
+msgid "<strong>ERROR</strong>: Please enter a secret word."
+msgstr ""
+
+#: admin/settings-page/general-settings/wpmember-secret-word.php:110
+msgid "Secret word added"
+msgstr ""
+
+#: admin/settings-page/message-settings.php:59
+msgid "Success message"
+msgstr ""
+
+#: admin/settings-page/message-settings.php:62
+msgid ""
+"Please enter a success message that appears when the purchase is complete"
+msgstr ""
+
+#: admin/settings-page/message-settings.php:67
+msgid "Error message"
+msgstr ""
+
+#: admin/settings-page/message-settings.php:70
+msgid "Please enter a error message that appears when the purchase is complete"
+msgstr ""
+
+#: admin/settings-page/message-settings.php:102
+msgid "<strong>ERROR</strong>: Please enter a success message."
+msgstr ""
+
+#: admin/settings-page/message-settings.php:106
+msgid "<strong>ERROR</strong>: Please enter a error message."
+msgstr ""
+
+#: admin/settings-page/message-settings.php:122
+msgid "Success message added"
+msgstr ""
+
+#: admin/settings-page/message-settings.php:123
+msgid "Error message added"
+msgstr ""
+
+#: admin/shortcode-settings-page.php:4
+msgid "Place the below shortcode to the desired page."
+msgstr ""
